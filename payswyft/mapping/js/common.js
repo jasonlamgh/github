@@ -41,11 +41,19 @@ $(document).ready(function()
 		//("?(?:"|\$|-)*(\d)*(,\d{3}))
 
 		// comma(s) not within double quotes	
-		regex = /([^"]+?),([^"]+)/g;
+		regex = /([^",]),([^",])/g;
 		while (m = regex.exec(csv)) {
 		    var start = m.index;
 		    var end = m.index + m[0].length;
-		    csv = jQuery.Common.String.ReplaceByRangeIndex(csv, "", start, end);
+		    
+		    csv = jQuery.Common.String.ReplaceByRangeIndex(csv, " ", start, end);
+		}
+		
+		regex = /"/g;
+		while (m = regex.exec(csv)) {
+		    var start = m.index;
+		    var end = m.index + m[0].length;
+		    csv = jQuery.Common.String.ReplaceByRangeIndex(csv, " ", start, end);
 		}
 		
 		// replace $, "
@@ -60,6 +68,7 @@ $(document).ready(function()
 	 *	<parameters></parameters>
 	 *	<description></description>
 	 */
+/*
 	jQuery.Common.CSV.IsValid = function(value) {
 		var result 	= true;
 		var regex	= '';		
@@ -71,6 +80,7 @@ $(document).ready(function()
 		 
 		return result;
 	 } 
+*/
 			
 	/*
 	 *	<syntax></syntax>
@@ -90,7 +100,7 @@ $(document).ready(function()
 	    var str = string;    
 	    for (var i = start; i < end; i++) {
 	        if (str.charAt(i) == ",") {
-	            str = str.slice(0, (i)) + replace + str.slice((i + 1), str.length);
+	            str = str.slice(0, (i)) + replace + str.slice((i+1), str.length);
 	        }
 	    }
 	    return str;

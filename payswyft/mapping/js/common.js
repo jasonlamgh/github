@@ -68,25 +68,6 @@ $(document).ready(function()
 	 *	<parameters></parameters>
 	 *	<description></description>
 	 */
-/*
-	jQuery.Common.CSV.IsValid = function(value) {
-		var result 	= true;
-		var regex	= '';		
-				 
-		// :TODO: throw custom error		
-		regex = /([^"]+?),([^"]+)/gm;		 
-		if(value.search(regex)!= -1)
-			return false; 
-		 
-		return result;
-	 } 
-*/
-			
-	/*
-	 *	<syntax></syntax>
-	 *	<parameters></parameters>
-	 *	<description></description>
-	 */
 	jQuery.Common.String.IsEmpty = function(value) {
 		return (!value || /^\s*$/.test(value));	
 	};

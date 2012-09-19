@@ -158,9 +158,10 @@
 			window.URL = window.webkitURL || window.URL;
 			window.BlobBuilder = window.BlobBuilder || window.WebKitBlobBuilder || window.MozBlobBuilder;
 			
-			var data = Table2Csv();
-			$('#data').html(data);
+			$('#data').html(Table2Csv());
+/* 			$('#data').html("hello"); */
 			
+						
 			try {
 				var prevLink = output.querySelector('a');
 				

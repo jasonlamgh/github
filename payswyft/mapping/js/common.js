@@ -111,7 +111,18 @@ $(document).ready(function()
 	 *	<parameters></parameters>
 	 *	<description></description>
 	 */
-	jQuery.Common.Logger.Console = function(value) {
+	jQuery.Common.String.DateFormat = function(value) {
+		var result;		
+		result = $.datepicker.formatDate('dd/mm/yy', new Date(value));
+		return result;	
+	} 
+	
+	/*
+	 *	<syntax></syntax>
+	 *	<parameters></parameters>
+	 *	<description></description>
+	 */
+	jQuery.Common.Logger.Log = function(value) {
 		var isDebug = DEBUG ? true : false;
 		if(isDebug){ console.log(value); }
 	}

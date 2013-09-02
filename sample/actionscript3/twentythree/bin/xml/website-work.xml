@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <id>1</id>
+        <label><![CDATA[<span class="gallery-id">#01</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">ANZ Netball Challenge</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Adobe Illustrator, Fireworks, Flash</span>
+<span class="gallery-link"><a href="event:www.anznetball.com/game">{ launch }</a></span>]]></description>
+        <image>image/work/01.jpg</image>
+        <gallery>
+            <item>image/work/01a.jpg</item> 
+            <item>image/work/01b.jpg</item>
+            <item>image/work/01c.jpg</item>
+            <item>image/work/01d.jpg</item>
+            <item>image/work/01e.jpg</item>
+            <item>image/work/01f.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>2</id>
+        <label><![CDATA[<span class="gallery-id">#02</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Disney Junior</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash, HTML, CSS, JSP, J2EE and CMS</span>
+<span class="gallery-link"><a href="event:www.disney.co.uk/disney-junior">{ launch }</a></span>]]></description>
+        <image>image/work/02.jpg</image>
+        <gallery>
+            <item>image/work/02a.jpg</item>
+            <item>image/work/02b.jpg</item>
+            <item>image/work/02c.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>4</id>
+        <label><![CDATA[<span class="gallery-id">#04</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Everlast</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">HTML, JavaScript and PHP</span>
+<span class="gallery-link"><a href="event:www.everlastusa.com.au">{ launch }</a></span>]]></description>
+        <image>image/work/04.jpg</image>
+        <gallery>
+            <item>image/work/04a.jpg</item>
+            <item>image/work/04b.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>6</id>
+        <label><![CDATA[<span class="gallery-id">#06</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Isuzu</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash, HTML, JavaScript and PHP</span>
+<span class="gallery-link"><a href="event:www.isuzufx.com.au">{ launch }</a></span>]]></description>
+        <image>image/work/06.jpg</image>
+        <gallery>
+            <item>image/work/06a.jpg</item>
+            <item>image/work/06b.jpg</item>
+            <item>image/work/06c.jpg</item>
+            <item>image/work/06d.jpg</item>
+            <item>image/work/06e.jpg</item>
+            <item>image/work/06f.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>8</id>
+        <label><![CDATA[<span class="gallery-id">#08</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">MalvernStar</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash, HTML, CSS and PHP</span>
+<span class="gallery-link"><a href="event:www.thelegendisback.com.au">{ launch }</a></span>]]></description>
+        <image>image/work/08.jpg</image>
+        <gallery>
+            <item>image/work/08a.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>9</id>
+        <label><![CDATA[<span class="gallery-id">#09</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Renault</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">HTML and CSS</span>
+<span class="gallery-link"><a href="event:www.renault.com.au">{ launch }</a></span>]]></description>
+        <image>image/work/09.jpg</image>
+        <gallery>
+            <item>image/work/09a.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>3</id>
+        <label><![CDATA[<span class="gallery-id">#03</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Chuggington</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash, HTML, CSS, CMS and Games Development</span>
+<span class="gallery-link"><a href="event:www.chuggington.com">{ launch }</a></span>]]></description>
+        <image>image/work/03.jpg</image>
+        <gallery>
+            <item>image/work/03a.jpg</item>
+            <item>image/work/03b.jpg</item>
+            <item>image/work/03c.jpg</item>
+            <item>image/work/03d.jpg</item>
+            <item>image/work/03e.jpg</item>
+            <item>image/work/03f.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>5</id>
+        <label><![CDATA[<span class="gallery-id">#05</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Fifi and the flowertots</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash and Games Development</span>
+<span class="gallery-link"><a href="event:www.fifiandtheflowertots.com">{ launch }</a></span>]]></description>
+        <image>image/work/05.jpg</image>
+        <gallery>
+            <item>image/work/05a.jpg</item>
+            <item>image/work/05b.jpg</item>
+            <item>image/work/05c.jpg</item>
+            <item>image/work/05d.jpg</item>
+            <item>image/work/05e.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>7</id>
+        <label><![CDATA[<span class="gallery-id">#07</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Lego</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash, HTML and CMS</span>
+<span class="gallery-link"><a href="event:www.legotechnicchallenge.co.uk">{ launch }</a></span>]]></description>
+        <image>image/work/07.jpg</image>
+        <gallery>
+            <item>image/work/07a.jpg</item>
+            <item>image/work/07b.jpg</item>
+            <item>image/work/07c.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>10</id>
+        <label><![CDATA[<span class="gallery-id">#10</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Roary</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash</span>
+<span class="gallery-link"><a href="event:www.roarytheracingcar.com">{ launch }</a></span>]]></description>
+        <image>image/work/10.jpg</image>
+        <gallery>
+            <item>image/work/10a.jpg</item>
+            <item>image/work/10b.jpg</item>
+        </gallery>
+    </item>
+    <item>
+        <id>11</id>
+        <label><![CDATA[<span class="gallery-id">#11</span>]]></label>
+        <title><![CDATA[<span class="gallery-title">Zanussi</span>]]></title>
+        <description><![CDATA[<span class="gallery-description">Flash and Games Development</span>
+<span class="gallery-link"><a href="event:zanussi.sopranodigital.com">{ launch }</a></span>]]></description>
+        <image>image/work/11.jpg</image>
+        <gallery>
+            <item>image/work/11a.jpg</item>
+            <item>image/work/11b.jpg</item>
+            <item>image/work/11c.jpg</item>
+        </gallery>
+    </item>
+</data>

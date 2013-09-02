@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <id>font.georgia</id>
+        <file>font/Georgia.swf</file>
+        <type>SWF</type>
+    </item>
+    <item>
+        <id>font.georgiaitalic</id>
+        <file>font/GeorgiaItalic.swf</file>
+        <type>SWF</type>
+    </item>
+</data>

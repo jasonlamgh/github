@@ -1,0 +1,245 @@
+@charset "UTF-8";
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: #0c8cee;
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+    margin: .67em 0;
+    color: white;
+    background-color: #ff0000;
+    line-height: 50px;
+    margin-bottom: 10px;
+    padding: 0px 10px;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: .75em 0
+}
+
+h3 {
+    font-size: 1.17em;
+    margin: .83em 0
+}
+
+h5 {
+    font-size: .83em;
+    margin: 1.5em 0
+}
+
+h6 {
+    font-size: .75em;
+    margin: 1.67em 0
+}
+
+hr {
+    margin-bottom:  20px;
+    border: black solid 1px;
+}
+
+input[type="submit"], input[type="button"], button {
+    min-width: 83px;
+    height: 30px;
+    font-weight: 100;
+    font-size: 12px;
+    color: white;
+    background-color: red;
+    border: 0;
+    cursor: pointer;
+    margin-top: 23px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    width: 0%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-spacing: 2px;
+    text-align: left;
+}
+
+td {
+    /*min-width: 150px;*/
+}
+
+th {
+    color: white;
+    background-color: black;
+    font-weight: normal
+}
+
+td,th {
+    padding: 2px;
+}
+
+tr.odd {
+    background-color: #eeeeee;
+}
+
+tr.headers a {
+    color: white;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+#header, #footer {
+    padding: 15px;
+}
+
+#body {
+    padding: 15px;
+}
+
+#m-nav {
+    position: relative;
+    z-index: 11;
+    clear: both;
+    background: black;
+    overflow: auto;
+    margin: 0 15px 0 15px;
+}
+
+#m-nav a {
+    /*     margin: .67em 0;     */
+    color: white;
+    background-color: black;
+    line-height: 34px;
+    padding: 0px 10px;
+    display: inline-block;
+}
+
+#m-nav a.selected {
+    color: white;
+    background-color: #ff0000;
+    line-height: 34px;
+    padding: 0px 10px;
+    display: inline-block;
+}
+
+
+#m-nav a:hover {
+    /*     margin: .67em 0;     */
+    background-color: #ff0000;
+}
+
+#m-nav ul {
+    list-style-type: none;
+    margin: auto;
+}
+
+#m-nav li {
+    float: left;
+    border-right: #ffffff solid 2px;
+}
+
+#m-nav li.navr {
+    float:right;
+    border-left: #ffffff solid 2px;
+    border-right: none;
+}
+
+#m-nav a.signout {
+    background-color: #ff0000;
+    float:right;
+}
+
+#m-nav {
+    position: relative;
+    z-index: 11;
+    clear: both;
+    background: black;
+    overflow: auto;
+    margin: 0 15px 0 15px;
+}
+
+.button a {
+    /*     margin: .67em 0;     */
+    color: white;
+    background-color: #ff0000;
+    line-height: 34px;
+    padding: 0px 10px;
+    display: inline-block;
+    min-width: 63px;
+    text-align: center;
+}
+
+
+.button ul {
+    list-style-type: none;
+    margin: auto;
+}
+
+.button li {
+    float: left;
+    border-right: #ffffff solid 2px;
+}
+
+ul.feedbackPanel {
+    list-style-type: none;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+li.feedbackPanelERROR {
+    background-color: #FFAAAA;
+    padding: 5px 5px 5px 10px;
+}
+
+li.feedbackPanelSUCCESS {
+    background-color: #AAFFAA;
+    padding: 5px 5px 5px 10px;
+}
+
+li.feedbackPanelINFO {
+    background-color: #FFFFAA;
+    padding: 5px 5px 5px 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+table.dataview td {
+    min-width: 100px;
+}
+
+table.detail td {
+    min-width: 150px;
+}
+
+table.form td {
+    min-width: 150px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <id>font.xml</id>
+        <file>xml/website-font.xml</file>
+        <value></value>
+        <type>XML</type>
+    </item>
+    <item>
+        <id>style.css</id>
+        <file>css/style.css</file>
+        <type>FILE</type>
+    </item>
+    <item>
+        <id>copy.xml</id>
+        <file>xml/website-copy.xml</file>
+        <value></value>
+        <type>XML</type>
+    </item>
+    <!--<item>-->
+        <!--<id>work.xml</id>-->
+        <!--<file>xml/website-work.xml</file>-->
+        <!--<value></value>-->
+        <!--<type>XML</type>-->
+    <!--</item>-->
+</data>

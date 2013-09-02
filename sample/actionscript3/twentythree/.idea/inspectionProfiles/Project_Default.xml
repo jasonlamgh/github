@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="ImplicitlyExposedWebServiceMethods" enabled="true" level="INFO" enabled_by_default="true" />
+    <inspection_tool class="ManagedBeanInconsistencyInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="UnproxyableBeanTypesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanDecoratorInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanDisposerMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanInjectInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanInspectionPointsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="WebBeanInterceptorInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanNormalScopeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="WebBeanObservesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanSpecializesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanStereotypeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanStereotypeRestrictionsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="WebBeanTypedAnnotationInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>

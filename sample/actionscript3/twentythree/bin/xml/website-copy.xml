@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <id>nav.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="nav">Jason Lam web portfolio showcases selected <u><a href="event:work">Works</a></u> in creative art direction,
+interactive direction and development from various web agencies with <u><a href="client:home">Clients</a></u>
+from Australia and United Kingdom. He is currently open for any remote / on-site full-time,
+part-time or freelance projects. Feel free to <u><a href="event:contact">Contact</a></u> him or view his <span class="nav-link"><u><a href="event:profile">Profile</a></u></span>.</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>nav.alpha.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="nav-alpha">Jason Lam web portfolio showcases selected <u><a href="event:work">Works</a></u> in creative art direction,
+interactive direction and development from various web agencies with <u><a href="client:home">Clients</a></u>
+from Australia and United Kingdom. He is currently open for any remote / on-site full-time,
+part-time or freelance projects. Feel free to <u><a href="event:contact">Contact</a></u> him or view his <span class="nav-link"><u><a href="event:profile">Profile</a></u></span>.</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>header.description.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="header-description">Interactive Developer, Creative Direction & UX-I Design</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>footer.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="footer">© Copyright 2008-2011. All Rights Reserved.
+Jason Lam  |  +44 (0) 7 826 915 633  |  jason.lam@live.com  |  2a Danemere Street, London, SW15 1LT, United Kingdom</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>profile.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="title-label">Profile</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>work.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="title-label">Work</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>home.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="title-label">Welcome</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>contact.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="title-label">Contact</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>contact.detail.copy</id>
+        <locale>en_UK</locale>
+        <value><![CDATA[<span class="body">E: jason.lam@live.com    T: +44 (0) 7826 915 633</span>]]></value>
+        <type>TEXT</type>
+    </item>
+    <item>
+        <id>contact.detail.copy</id>
+        <locale>en_AUS</locale>
+        <value><![CDATA[<span class="body">E: jason.lam@live.com    T: +61 (0) 432 196 221 </span>]]></value>
+        <type>TEXT</type>
+    </item>
+</data>

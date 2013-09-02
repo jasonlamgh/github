@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:wicket="http://wicket.apache.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+</head>
+<body>
+<div wicket:id="header" id="header"></div>
+<div wicket:id="m-nav" ></div>
+<div id="body">
+    <h2><wicket:message key="label.agent.beneficiary.collection" /></h2>
+    <hr/>
+    <form wicket:id="form">
+        <div wicket:id="feedback"/>
+        <table>
+            <tr>
+                <td><wicket:message key="label.agent.beneficiary.collection.transserialno" /></td>
+                <td><input type="text" wicket:id="transSerialNo"/></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><wicket:message key="label.agent.beneficiary.collection.beneficiary.msisdn" /></td>
+                <td><input type="text" wicket:id="beneficiaryMsisdn"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" wicket:id="submit"/></td>
+            </tr>
+        </table>
+    </form>
+</div>
+<div wicket:id="footer" id="footer"></div>
+</body>
+</html>

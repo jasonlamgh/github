@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <id>library</id>
+        <file>swf/Library.swf</file>
+        <value></value>
+        <type>SWF</type>
+    </item>
+    <item>
+        <id>pattern.square.horizontal.image</id>
+        <file>image/pattern-square-horizontal.png</file>
+        <value></value>
+        <type>IMAGE</type>
+    </item>
+    <item>
+        <id>pattern.square.image</id>
+        <file>image/pattern-square.png</file>
+        <value></value>
+        <type>IMAGE</type>
+    </item>
+</data>
